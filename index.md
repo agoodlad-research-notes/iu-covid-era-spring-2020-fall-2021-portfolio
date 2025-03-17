@@ -1,7 +1,6 @@
 ## IU Covid Era Spring 2020-Fall 2021 Portfolio
 
-%GIVE DESCRIPTION ABOUT THIS PAGE, THEN UPLOAD LOGIC RESEARCH NOTES
-%THEN MAKE REPOSITORY ABOUT ROGER TEMAM PAPERS
+%GIVE DESCRIPTION ABOUT THIS PAGE
 
 During the 2024 fall semester, I taught Logic (Math-M384) as a part-time instructor at IU East. This class is a standard proof-based intrudocution to mathematical logic, good for anyone fresh out of taking an introduction to proofs course. In this class, we learn sentential logic (aka propositional logic); truth assignment functions and truth tables; structural induction and recursion; first order logic; structures and models of theories; (Hilbert) deductive calculus; and the soundness, completeness, and compactness theorems.
 
