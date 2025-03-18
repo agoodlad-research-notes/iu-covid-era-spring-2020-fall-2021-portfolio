@@ -6,9 +6,9 @@ During the 2024 fall semester, I taught Logic (Math-M384) as a part-time instruc
 
 My lecture notes for this class, which I would give during my weekly online office hours, are divided by chapters on the book we use, which was the 2nd edition of A Mathematical Introduction to Logic by Herbert B. Enderton.
 
--[Math-M622 Final Project (Fall 2020))](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/math-m6222-final-project-fall-2020)
+-[Math-M622 Final Project (Fall 2020)](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/math-m6222-final-project-fall-2020)
 
--[Notes on Induction, Recursion, Coinduction, and Corecursion (Spring 2021))](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/notes-on-induction-recursion-coinduction-and-corecursion-spring-2021.pdf)
+-[Notes on Induction, Recursion, Coinduction, and Corecursion (Spring 2021)](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/notes-on-induction-recursion-coinduction-and-corecursion-spring-2021.pdf)
 
 -[Explicit Free Equational Algebras Outline and Abstract (Summer-Fall 2021)](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/explicit-free-equational-algebras-outline-and-abstract-summer-fall-2021.pdf)
 
