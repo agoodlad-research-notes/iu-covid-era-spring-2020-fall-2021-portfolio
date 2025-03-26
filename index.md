@@ -1,10 +1,10 @@
 ## IU Covid Era Spring 2020-Fall 2021 Portfolio
 
-%GIVE DESCRIPTION ABOUT THIS PAGE
+Between Spring 2020 and Fall 2021 I was doing research in mathematical logic and category theory, before I decided to switch (due to the lack of available adviser for me in the topic) to analysis. These notes essentially show that I was consistently working on research related to logic before the decision to switch was made through the notes I've taken during the various courses I've done related to such topics.
 
-During the 2024 fall semester, I taught Logic (Math-M384) as a part-time instructor at IU East. This class is a standard proof-based intrudocution to mathematical logic, good for anyone fresh out of taking an introduction to proofs course. In this class, we learn sentential logic (aka propositional logic); truth assignment functions and truth tables; structural induction and recursion; first order logic; structures and models of theories; (Hilbert) deductive calculus; and the soundness, completeness, and compactness theorems.
+More specifically, I wrote a paper in an algebraic topology class (Math-M 622) that I took during the Fall 2020 semester where I use this potentially original diagram chase argument to prove that the two definitions of CW complex are equivalent. Though it got graded poorly--and quite frankly unfairly--I steadfastly believe that this paper has at least correct general insight on my proof, though I plan to check this using Math Overflow, as well as proofs in the canon text (to see if my result ends up being similar) sometime in the near future.
 
-My lecture notes for this class, which I would give during my weekly online office hours, are divided by chapters on the book we use, which was the 2nd edition of A Mathematical Introduction to Logic by Herbert B. Enderton.
+The other reports included are notes on the logic/category theory subfield of Coalgebras. One deals with standard recursion, coinduction, and corecursion, and the other deals with coalgebras on measurable spaces and coalgebraic modal logic. And finally, before I changed my topic, I created outlines for two papers in logic, one about explicit free equational algebras, and the other on bisimulations on finitary functors. Both of these paper topics stem from original ideas that I came up with in my notes (stay tuned for a more in-depth explanation about these ideas in a future description of this page).
 
 -[Math-M622 Final Project (Fall 2020)](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/math-m622-final-project-fall-2020)
 
@@ -15,5 +15,3 @@ My lecture notes for this class, which I would give during my weekly online offi
 -[Notes on Coalgebras on Measurable Spaces and Coalgebraic Modal Logic (Summer-Fall 2021)](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/notes-on-coalgebras-on-measurable-spaces-and-coalgebraic-modal-logic-summer-fall-2021.pdf)
 
 -[Bisimulations on Finitary Functors (Possible) Paper Outline and Abstract (Fall 2021)](https://agoodlad-research-notes.github.io/iu-covid-era-spring-2020-fall-2021-portfolio/bisimulations-on-finitary-functors-possible-paper-outline-and-abstract-fall-2021.pdf)
-
-
